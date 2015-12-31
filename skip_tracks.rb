@@ -1,6 +1,5 @@
 # Code is cooked here:) 
 # Time Complexity:  O(n*l)	
-# Space Complexity: O(1)
 
 def skip_tracks(hash,n)           
 	l=hash.length()
